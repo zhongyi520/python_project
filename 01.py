@@ -14,7 +14,7 @@ class PythonStudent():
     ke = 'python'
 
     def doHomework(self):
-        print('我在做作业')
+        print('我在做作业....')
         return None
 
 
